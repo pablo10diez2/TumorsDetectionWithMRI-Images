@@ -2,4 +2,9 @@ pip install tensorflow
 pip install scikit-learn
 pip install numpy
 pip install opencv-python
-
+pip install matplotlib
+pip install pandas
+pip install seaborn
+pip install jupyter
+pip install autokeras
+pip install keras
